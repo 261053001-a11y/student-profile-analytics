@@ -1,5 +1,5 @@
 # 🎓 Dashboard Analisis Profil Mahasiswa
-link Demo :
+link Demo : https://student-profile-analytics-jhxqpiodxdmhdsgrsyxf25.streamlit.app/
 
 > **Bedah Kasus 2: Dataset Profil Mahasiswa (1.000 Data)**  
 > **Nama:** Hudzaifah Aini  
